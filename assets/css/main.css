@@ -37,7 +37,7 @@ body{
   position: absolute;
   content: " ";
   width: 2px;
-  background-color: #4997cd;
+  background-color: #cccccc;
   left: 50%;
   margin-left: -1px;
 }
@@ -56,7 +56,7 @@ body{
   left: 50%;
   top: 50%;
   margin-left: -5px;
- background: #C0C0C0;
+ background: #c59a6d;
   z-index: 100;
 }
 #timeline .timeline-badge:before{
@@ -92,8 +92,7 @@ body{
   /*padding: 20px 0;*/
 }
 #timeline .timeline-entry .timeline-item .timeline-panel {
-  border: 1px solid #d4d4d4;
-  border-radius: 3px;
+  border: 1px solid #cccccc;
   background-color: #FFFFFF;
   color: #666;
   padding: 10px 30px;
@@ -103,10 +102,10 @@ body{
 }
 .panel-icon{
     /*background: #000;*/
-    color: #000;
+    color: #c59a6d;
     padding: 10px;
     text-align: center;
-    border: 1px solid #000;
+    border: 1px solid #cccccc;
     margin: 20px 0px;
 }
 .panel-details{
@@ -129,13 +128,8 @@ body{
 .timeline-item-year.left{
     margin-left: -60px;
 }
-
-.details{
-    max-height: 100px;
-    overflow: auto;
-}
-#timeline .timeline-entry .timeline-item{
-    /*height: 180px;*/
+.panel-icon-wrapper{
+    text-align: center;
 }
 
 
