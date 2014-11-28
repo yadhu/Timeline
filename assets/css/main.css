@@ -39,7 +39,7 @@ body{
   width: 2px;
   background-color: #4997cd;
   left: 50%;
-  margin-left: -1.5px;
+  margin-left: -1px;
 }
 #timeline .clearFix {
   clear: both;
@@ -96,11 +96,10 @@ body{
   border-radius: 3px;
   background-color: #FFFFFF;
   color: #666;
-  padding: 30px;
+  padding: 10px 30px;
   position: relative;
   -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
-  height: 141px;
 }
 .panel-icon{
     /*background: #000;*/
@@ -108,6 +107,10 @@ body{
     padding: 10px;
     text-align: center;
     border: 1px solid #000;
+    margin: 20px 0px;
+}
+.panel-details{
+    margin: 20px 0px;
 }
 .panel-head h4{
     text-transform: uppercase;
@@ -134,8 +137,5 @@ body{
 #timeline .timeline-entry .timeline-item{
     /*height: 180px;*/
 }
-
-
-
 
 
