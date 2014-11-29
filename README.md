@@ -1,6 +1,6 @@
 ##Responsive timeline
 
->Beautiful vetical timeline using pure HTML and CSS.
+>Beautiful vertical timeline using pure HTML and CSS.
 Built using Twitter Bootstrap by [auyadhu](https://github.com/yadhu)
 
 ##Demo
